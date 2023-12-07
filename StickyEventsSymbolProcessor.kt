@@ -7,9 +7,9 @@ import com.google.devtools.ksp.processing.Resolver
 import com.google.devtools.ksp.processing.SymbolProcessor
 import com.google.devtools.ksp.symbol.KSAnnotated
 import com.google.devtools.ksp.symbol.KSClassDeclaration
-import com.niceforyou.events.Event
-import com.niceforyou.events.FactoryComponent
-import com.niceforyou.events.StickyComponent
+import com.yuriisurzhykov.events.Event
+import com.yuriisurzhykov.events.FactoryComponent
+import com.yuriisurzhykov.events.StickyComponent
 import com.squareup.kotlinpoet.AnnotationSpec
 import com.squareup.kotlinpoet.FileSpec
 import com.squareup.kotlinpoet.FunSpec
